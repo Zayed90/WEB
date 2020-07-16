@@ -1,0 +1,1 @@
+{"datasource_detail":[{"col":"MERK_CLEANSED","db_name":"db_ta_cleansing","tab":"tb_ereg_merk","port":"","db_username":"root","host":""}]}
